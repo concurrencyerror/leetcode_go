@@ -1,0 +1,1 @@
+a leetcode code base power by golang
